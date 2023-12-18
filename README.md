@@ -56,8 +56,3 @@ O sistema de biblioteca gerencia e mantém registros de livros em uma biblioteca
 
 6. **Saída do Programa**
    - Comando: `sai`
-
-### 4. Observações
-- As mensagens de insucesso devem incluir informações sobre a causa do problema.
-- O sistema registra as operações de empréstimo, devolução e cadastro de usuários.
-- Certifique-se de seguir as regras específicas para cada tipo de usuário durante as operações.
