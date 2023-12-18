@@ -23,12 +23,12 @@ O sistema de biblioteca gerencia e mantém registros de livros em uma biblioteca
    - Exemplo: `usu|200|add|pro|Alexsandra Prata`
    - O sistema emite uma mensagem de sucesso ou insucesso.
 
-2. **Alterar usuário **
+2. **Alterar usuário**
    - Comando: `usu|<código anterior >|alt|<código novo>|<tipo>|<nome>`
    - Exemplo: `usu|200|alt|201|tec|Alexsandra Melo`
    - O sistema emite uma mensagem de sucesso ou insucesso.   
 
-3. **Excluir usuário **
+3. **Excluir usuário**
    - Comando: `usu|exc|<código>`
    - Exemplo: `usu|exc|200`
    - O sistema emite uma mensagem de sucesso ou insucesso.   
