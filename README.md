@@ -3,7 +3,7 @@
 ## Descrição do Sistema para o Trabalho Prático
 
 ### 1. Objetivo
-Neste trabalho prático, o objetivo é projetar e implementar um sistema de biblioteca de porte muito pequeno, proporcionando aos alunos a aplicação prática dos conhecimentos adquiridos em Linguagem de Programação II.
+Neste trabalho prático, o objetivo é projetar e implementar um sistema de biblioteca de porte pequeno, proporcionando aos alunos a aplicação prática dos conhecimentos adquiridos em Linguagem de Programação II.
 
 ### 2. Visão Geral do Sistema
 O sistema de biblioteca gerencia e mantém registros de livros em uma biblioteca acadêmica. Quatro tipos de usuários (alunos, alunos de pós-graduação, técnicos administrativos e professores) podem realizar empréstimos e devoluções. Cada livro possui um código, título, editora, autores, edição e ano de publicação. Os usuários têm regras específicas para empréstimos, com períodos diferentes, conforme a Tabela 1.
