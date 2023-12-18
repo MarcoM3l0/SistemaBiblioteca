@@ -170,7 +170,7 @@ public class Main implements iFuncionalidades, iConsulta {
 			for(Usuario usuario : user) {
 				
 				for(Emprestimo emp : emprestimoAtual) {
-					if(emp.getDataDevolucao().isBefore(dataAtual)) {
+					if(emp.getDataDevolucao().isBefore(dataAtual) && usuario.getCodigo().equals(emp.getCodigoUser())) {
 						
 						usuario.setLivroAtraso(true);
 						
